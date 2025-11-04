@@ -1,4 +1,4 @@
-# 🧠 Joinup Feedback & Roadmap
+# Joinup Feedback & Roadmap
 
 Welcome to the **public feedback and roadmap repository** for [**Joinup**](https://joinup.ch) —  
 the startup ecosystem platform built by **ETH Entrepreneur Club** to connect startups, talent, and partners across Switzerland.
@@ -10,7 +10,7 @@ This repository exists to **collect feedback, feature requests, and bug reports*
 
 ## 💬 How to Give Feedback
 
-### 🧩 Suggest a New Feature
+### Suggest a New Feature
 1. Go to the [**Issues**](https://github.com/eth-entrepreneur-club.org/joinup-public-roadmap/issues) tab.  
 2. Click **“New Issue”** → choose **Feature Request**.  
 3. Describe the feature clearly:
@@ -18,7 +18,7 @@ This repository exists to **collect feedback, feature requests, and bug reports*
    - Who benefits (students, startups, or partners)?
    - Optional sketches or links.
 
-### 🐛 Report a Bug or Problem
+### Report a Bug or Problem
 1. Click **New Issue** → choose **Bug Report**.  
 2. Include:
    - Page or section where the issue appears  
@@ -46,7 +46,7 @@ If you want to contribute to development, design, or data, please:
 
 ---
 
-## 🔒 Data & Privacy
+## Data & Privacy
 - Please **do not share private information** (emails, passwords, etc.) when filing issues.  
 - All posts in this repository are **publicly visible**.  
 - If you need to report something sensitive, email info @@ joinup.ch
